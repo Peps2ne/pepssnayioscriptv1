@@ -47,7 +47,7 @@ function setupUI() {
     const _0xf662xc = document['querySelector']('#title');
     _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1132144873080901722/1132761257808760832/logo.png';
     _0xf662xc['style']['position'] = 'absolute';
-    _0xf662xc['style']['top'] = '5%';
+    _0xf662xc['style']['top'] = '25%';
     _0xf662xa['appendChild'](_0xf662xb);
     _0xf662xa['style']['backgroundImage'] = 'linear-gradient(to right, #71797E, gray, #71797E)';
     _0xf662xa['style']['position'] = 'absolute';
