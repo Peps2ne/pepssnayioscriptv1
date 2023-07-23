@@ -45,7 +45,7 @@ function setupUI() {
     const _0xf662xa = document['createElement']('p');
     const _0xf662xb = document['createTextNode']('Shazam\'s snay.io script.   ');
     const _0xf662xc = document['querySelector']('#title');
-    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1132475393664888933/1132479913522368533/image.png';
+    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1132144873080901722/1132761257808760832/logo.png';
     _0xf662xc['style']['position'] = 'absolute';
     _0xf662xc['style']['top'] = '-5%';
     _0xf662xa['appendChild'](_0xf662xb);
