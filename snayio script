@@ -46,13 +46,12 @@ function setupUI() {
     const _0xf662xb = document['createTextNode']('Peps's snay.io script ');
     const _0xf662xc = document['querySelector']('#title');
     _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1132144873080901722/1132761257808760832/logo.png';
-    _0xf662xc['style']['position'] = 'absolute';
-    _0xf662xc['style']['top'] = '5%';
+  _0xf662xc['style']['top'] = '-5%';
     _0xf662xa['appendChild'](_0xf662xb);
     _0xf662xa['style']['backgroundImage'] = 'linear-gradient(to right, #71797E, gray, #71797E)';
     _0xf662xa['style']['position'] = 'absolute';
     _0xf662xa['style']['left'] = '25%';
-    _0xf662xa['style']['top'] = '25%';
+    _0xf662xa['style']['top'] = '5%';
     _0xf662xa['style']['color'] = 'white';
     _0xf662xa['style']['padding'] = '8px';
     _0xf662xa['style']['borderRadius'] = '25px';
@@ -62,7 +61,7 @@ function setupUI() {
     _0xf662x9['style']['backgroundColor'] = '#6495ED';
     _0xf662x9['style']['position'] = 'absolute';
     _0xf662x9['style']['left'] = '20%';
-    _0xf662x9['style']['top'] = '45%';
+    _0xf662x9['style']['top'] = '5%';
     _0xf662x9['style']['borderRadius'] = '50%';
     _0xf662x9['style']['opacity'] = '70%';
     _0xf662x9['src'] = 'https://cdn.discordapp.com/attachments/1121131733111283752/1132754115630473418/355259431_823750115848047_3374715865868008676_n.jpg';
