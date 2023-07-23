@@ -26,26 +26,46 @@ function setupUI() {
     _0xf662x7['style']['top'] = '35px';
     _0xf662x7['style']['right'] = '5px';
     _0xf662x7['style']['backgroundSize'] = '100% 100%';
-    _0xf662x7['setAttribute']('class', 'Save Ukrania');
+    _0xf662x7['setAttribute']('class', 'Peps YT Save Ukrania');
     _0xf662x7['onclick'] = () => {
         window['open']('https://www.youtube.com/channel/UCQbbuLna7D7m8RI3Pib3E4Q')
     };
     _0xf662x7['style']['cursor'] = 'pointer';
     var _0xf662x8 = document['createElement']('div');
     _0xf662x8['style'] = 'height: 50px; width: 120px; position: absolute; top: -15px; right: 5px; border: 2px solid blue; border-radius: 25px; background: gray; text-align: center; color: white;';
-    _0xf662x8['innerText'] = 'İnstagram';
+    _0xf662x8['innerText'] = 'Discord';
     document['querySelector']('#main-menu')['append'](_0xf662x8);
     _0xf662x8['onclick'] = () => {
-        window['open']('https://www.instagram.com/peps2ne/')
+        window['open']('https://discord.gg/x2bcfMHwCa')
     };
     _0xf662x8['style']['cursor'] = 'pointer';
     _0xf662x8['style']['backgroundSize'] = '100% 100%';
     _0xf662x8['style']['backgroundRepeat'] = 'no-repeat';
     const _0xf662x9 = document['createElement']('img');
     const _0xf662xa = document['createElement']('p');
-    const _0xf662xb = document['createTextNode']('Peps's snay.io script.   ');
+    const _0xf662xb = document['createTextNode']('Peps&Nvkt&Jimmys Snayio Script');
     const _0xf662xc = document['querySelector']('#title');
-    _0xf662x9['src'] = 'https://cdn.discordapp.com/attachments/1121131733111283752/1132754115630473418/355259431_823750115848047_3374715865868008676_n.jpg';
+    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1121201461133574156/1132425866014625863/indir.png';
+    _0xf662xc['style']['position'] = 'absolute';
+    _0xf662xc['style']['top'] = '-5%';
+    _0xf662xa['appendChild'](_0xf662xb);
+    _0xf662xa['style']['backgroundImage'] = 'linear-gradient(to right, #71797E, gray, #71797E)';
+    _0xf662xa['style']['position'] = 'absolute';
+    _0xf662xa['style']['left'] = '25%';
+    _0xf662xa['style']['top'] = '5%';
+    _0xf662xa['style']['color'] = 'white';
+    _0xf662xa['style']['padding'] = '8px';
+    _0xf662xa['style']['borderRadius'] = '25px';
+    _0xf662xa['style']['opacity'] = '70%';
+    _0xf662xa['style']['border'] = '1.5px solid black';
+    _0xf662xa['style']['color'] = 'white';
+    _0xf662x9['style']['backgroundColor'] = '#6495ED';
+    _0xf662x9['style']['position'] = 'absolute';
+    _0xf662x9['style']['left'] = '20%';
+    _0xf662x9['style']['top'] = '5%';
+    _0xf662x9['style']['borderRadius'] = '50%';
+    _0xf662x9['style']['opacity'] = '70%';
+    _0xf662x9['src'] = 'https://cdn.discordapp.com/attachments/1121201461133574156/1132422287195394058/IMG_0801.png';
     _0xf662x9['style']['height'] = '10%';
     _0xf662x9['style']['width'] = '6%';
     _0xf662x9['style']['border'] = '2px solid black';
@@ -53,22 +73,22 @@ function setupUI() {
     document['querySelector']('#deco2')['style']['opacity'] = '0%';
     document['querySelector']('#deco3')['style']['opacity'] = '0%';
     document['querySelector']('#deco4')['style']['opacity'] = '0%';
-    document['querySelector']('#signin-btn')['src'] = 'https://www.seekpng.com/png/full/364-3641813_login-button-best-graphic-design.png';
+    document['querySelector']('#signin-btn')['src'] = 'http://www.clker.com/cliparts/d/u/w/y/F/1/thin-gray-signin-button-hi.png';
     document['querySelector']('#HUD')['appendChild'](_0xf662x9);
     document['querySelector']('#HUD')['appendChild'](_0xf662xa);
     _0xf662xa['classList']['add']('NewHud');
-    document['querySelector']('#seasons-body')['style']['backgroundColor'] = 'grey';
-    document['querySelector']('#seasons-header')['style']['backgroundColor'] = 'grey';
-    document['querySelector']('#store-body')['style']['backgroundColor'] = 'grey';
-    document['querySelector']('#store-header')['style']['backgroundColor'] = 'grey';
-    document['querySelector']('#gallery-content')['style']['background'] = 'grey';
-    document['querySelector']('#gallery-header')['style']['backgroundColor'] = 'grey';
+    document['querySelector']('#seasons-body')['style']['backgroundColor'] = 'black';
+    document['querySelector']('#seasons-header')['style']['backgroundColor'] = 'black';
+    document['querySelector']('#store-body')['style']['backgroundColor'] = 'black';
+    document['querySelector']('#store-header')['style']['backgroundColor'] = 'black';
+    document['querySelector']('#gallery-content')['style']['background'] = 'black';
+    document['querySelector']('#gallery-header')['style']['backgroundColor'] = 'black';
     document['querySelector']('#gallery-body')['style']['backgroundImage'] = 'linear-gradient(to bottom, black, darkblue, black)';
     document['querySelector']('.windowclosebtn')['style']['filter'] = 'hue-rotate(200deg)';
     document['querySelector']('#settings-body')['style']['backgroundImage'] = 'linear-gradient(to bottom, black, darkblue, black)';
     document['querySelector']('#Settings-common')['style']['backgroundColor'] = '#818589';
     document['querySelector']('#Settings-common')['style']['borderRadius'] = '25px';
-    document['querySelector']('#settings-header')['style']['backgroundColor'] = 'grey';
+    document['querySelector']('#settings-header')['style']['backgroundColor'] = 'black';
     document['querySelectorAll']('.windowclosebtn')['forEach']((_0xf662xd) => {
         _0xf662xd['style']['filter'] = 'hue-rotate(200deg)'
     });
@@ -81,7 +101,7 @@ function setupUI() {
 }
 
 function setupCustomSkins() {
-    var _0xf662xf = ['https://cdn.discordapp.com/attachments/1121201461133574156/1132423279508996196/IMG_1030.png', 'https://cdn.discordapp.com/attachments/1121201461133574156/1132425420558573578/ab67616d0000b273e5d99e93a23524b660e15162.png'];
+    var _0xf662xf = ['https://cdn.discordapp.com/attachments/1121201461133574156/1132423079402942567/image.png', 'https://cdn.discordapp.com/attachments/1121201461133574156/1132423279508996196/IMG_1030.png'];
 
     function _0xf662x10(_0xf662x11) {
         var _0xf662x12 = false;
@@ -189,17 +209,17 @@ function setupModMenu() {
                 _0xf662x29['style']['filter'] = 'brightness(100%)'
             } else {
                 _0xf662x2a['append'](_0xf662x2c);
-                _0xf662x29['style']['filter'] = 'brightness(65%)'
+                _0xf662x29['style']['filter'] = 'brightness(70%)'
             }
         } else {
             if (_0xf662x26 == 'on') {
                 if (localStorage['getItem'](_0xf662x27)) {
                     _0xf662x2a['append'](_0xf662x2c);
-                    _0xf662x29['style']['filter'] = 'brightness(65%)'
+                    _0xf662x29['style']['filter'] = 'brightness(70%)'
                 } else {
                     _0xf662x29['setAttribute']('class', 'on');
                     _0xf662x2a['append'](_0xf662x2b);
-                    _0xf662x29['style']['filter'] = 'brightness(95%)'
+                    _0xf662x29['style']['filter'] = 'brightness(100%)'
                 }
             }
         };
@@ -212,7 +232,7 @@ function setupModMenu() {
                     localStorage['removeItem'](_0xf662x27);
                     _0xf662x29['style']['filter'] = '';
                     _0xf662x29['removeAttribute']('class');
-                    _0xf662x29['style']['filter'] = 'brightness(65%)';
+                    _0xf662x29['style']['filter'] = 'brightness(70%)';
                     _0xf662x2a['firstChild']['remove']();
                     _0xf662x2a['append'](_0xf662x2c)
                 } else {
@@ -221,7 +241,7 @@ function setupModMenu() {
                         _0xf662x29['removeAttribute']('class');
                         _0xf662x29['setAttribute']('class', 'on');
                         _0xf662x2a['firstChild']['remove']();
-                        _0xf662x29['style']['filter'] = 'brightness(90%)';
+                        _0xf662x29['style']['filter'] = 'brightness(100%)';
                         _0xf662x2a['append'](_0xf662x2b)
                     }
                 }
@@ -239,7 +259,7 @@ function setupModMenu() {
                             localStorage['removeItem'](_0xf662x27);
                             _0xf662x2a['firstChild']['remove']();
                             _0xf662x2a['append'](_0xf662x2b);
-                            _0xf662x29['style']['filter'] = 'brightness(90%)';
+                            _0xf662x29['style']['filter'] = 'brightness(100%)';
                             _0xf662x29['setAttribute']('class', 'on')
                         }
                     }
@@ -278,7 +298,7 @@ window['addEventListener']('load', () => {
         _0xf662x34['style']['position'] = 'absolute'
     }, 3000);
     document['querySelector']('#title')['style']['zIndex'] = '2';
-    document['querySelector']('button#play-btn')['style']['backgroundImage'] = 'url(\'https://w7.pngwing.com/pngs/457/1007/png-transparent-youtube-computer-icons-youtube-angle-rectangle-black.png\')';
+    document['querySelector']('button#play-btn')['style']['backgroundImage'] = 'url(\'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/YouTube_play_buttom_dark_icon_%282013-2017%29.svg/800px-YouTube_play_buttom_dark_icon_%282013-2017%29.svg.png\')';
     document['querySelector']('button#spectate-btn')['style']['backgroundImage'] = 'url(\'https://www.freeiconspng.com/uploads/eye-icon--icon-search-engine-17.png\')';
     document['querySelector']('button#spectate-btn')['style']['border'] = '3px solid white';
     document['querySelector']('button#spectate-btn')['style']['backgroundColor'] = 'gray';
@@ -625,7 +645,7 @@ setInterval(() => {
         currentSplits['innerText'] = window['stats']['mycells'] + '/16'
     }
 });
-var cribl = ['https://www.snay.io/assets/skins/Mei.png', 'https://www.snay.io/assets/skins/season-point.png', 'https://www.snay.io/assets/skins/pellet1_image.png', 'https://www.snay.io/assets/skins/pellet2_image.png', 'https://www.snay.io/assets/skins/pellet3_image.png', 'https://www.snay.io/assets/skins/vani.png', 'https://www.snay.io/assets/skins/heart.png'];
+var cribl = ['https://www.snay.io/assets/skins/Mei.png', 'https://www.snay.io/assets/skins/season-point.png', 'https://www.snay.io/assets/skins/pellet1_image.png', 'https://www.snay.io/assets/skins/pellet2_image.png', 'https://www.snay.io/assets/skins/pellet3_image.png', 'https://www.snay.io/assets/skins/pellet_image.png', 'https://www.snay.io/assets/skins/heart.png'];
 
 function setSkinsEvent() {
     const _0xf662x44 = new MutationObserver(function() {
