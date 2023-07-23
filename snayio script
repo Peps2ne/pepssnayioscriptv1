@@ -52,7 +52,7 @@ function setupUI() {
     _0xf662xa['style']['backgroundImage'] = 'linear-gradient(to right, #71797E, gray, #71797E)';
     _0xf662xa['style']['position'] = 'absolute';
     _0xf662xa['style']['left'] = '25%';
-    _0xf662xa['style']['top'] = '5%';
+    _0xf662xa['style']['top'] = '25%';
     _0xf662xa['style']['color'] = 'white';
     _0xf662xa['style']['padding'] = '8px';
     _0xf662xa['style']['borderRadius'] = '25px';
