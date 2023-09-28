@@ -88,7 +88,7 @@ if (isMobile()) {
 
     var modmenutitle = document.createElement('div');
     modmenutitle.id = 'modmenutitle';
-    modmenutitle.textContent = 'Features😉';
+    modmenutitle.textContent = 'Tasaklarim';
 
 
     var buttonsContainer = document.createElement('div');
