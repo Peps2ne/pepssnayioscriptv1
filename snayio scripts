@@ -130,7 +130,7 @@ function isMobile() {
           const node = document.createElement("p");
           const textnode = document.createTextNode("Peps2ne's snay.io script.)   ");
           const menuTitle = document.querySelector("#title");
-          menuTitle.src = "https://cdn.discordapp.com/attachments/1278647931116847186/1280943952169795644/script.png?ex=66d9eb84&is=66d89a04&hm=63c78dc966924f61eb2be576f45c4d73844eb8de8b026dd847f544bc2bd5c22a&";
+          menuTitle.src = "https://i.pinimg.com/564x/b8/05/27/b805274280da390fd6c87fa4b6b3f5da.jpg";
           menuTitle.style.position = "absolute";
           menuTitle.style.top = "-5%";
           menuTitle.style.zIndex = "7";
@@ -152,7 +152,7 @@ function isMobile() {
           logo.style.top = "5%";
           logo.style.borderRadius = "50%";
           logo.style.opacity = "70%";
-          logo.src = "https://i.pinimg.com/564x/b8/05/27/b805274280da390fd6c87fa4b6b3f5da.jpg";
+          logo.src = "https://cdn.discordapp.com/attachments/1278647931116847186/1280943952169795644/script.png?ex=66d9eb84&is=66d89a04&hm=63c78dc966924f61eb2be576f45c4d73844eb8de8b026dd847f544bc2bd5c22a&";
           logo.style.height = "10%";
           logo.style.width = "6%";
           logo.style.border = "2px solid black";
