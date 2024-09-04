@@ -130,7 +130,7 @@ function isMobile() {
           const node = document.createElement("p");
           const textnode = document.createTextNode("Peps2ne's snay.io script.)   ");
           const menuTitle = document.querySelector("#title");
-          menuTitle.src = "https://cdn.discordapp.com/attachments/1133524593139789965/1280951058390319125/de8c5ee64b62be6c0f401ef1080e3163.jpg?ex=66d9f223&is=66d8a0a3&hm=106378ee0dd0cbbe8f7ce43e7a943b8a749f1e24530711df58188eac799bc1d7&";
+          menuTitle.src = "https://cdn.discordapp.com/attachments/1278647931116847186/1280943952169795644/script.png?ex=66d9eb84&is=66d89a04&hm=63c78dc966924f61eb2be576f45c4d73844eb8de8b026dd847f544bc2bd5c22a&";
           menuTitle.style.position = "absolute";
           menuTitle.style.top = "-5%";
           menuTitle.style.zIndex = "7";
