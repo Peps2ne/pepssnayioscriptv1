@@ -120,7 +120,7 @@ function isMobile() {
           myDiscord.innerText = "Discord";
               document.querySelector("#main-menu").append(myDiscord);
               myDiscord.onclick = ()=>{
-              window.open("https://discord.gg/snayio");
+              window.open("https://discord.gg/valosoft");
           }
           myDiscord.style.cursor = "pointer";
           myDiscord.style.backgroundSize = "100% 100%";
@@ -130,7 +130,7 @@ function isMobile() {
           const node = document.createElement("p");
           const textnode = document.createTextNode("Peps2ne's snay.io script.)   ");
           const menuTitle = document.querySelector("#title");
-          menuTitle.src = "https://cdn.discordapp.com/attachmhttps://cdn.discordapp.com/attachments/1152719368707375134/1152719456758399166/gara_oglan.jpg?ex=65169a66&is=651548e6&hm=31c1d48c09271e452b03e37e8f9fc6773be93b22e9ed14e461ba0ae785c833db&ents/1114383797409021992/1127586457192775700/shazam_2.png";
+          menuTitle.src = "https://cdn.discordapp.com/attachments/1133524593139789965/1280951058390319125/de8c5ee64b62be6c0f401ef1080e3163.jpg?ex=66d9f223&is=66d8a0a3&hm=106378ee0dd0cbbe8f7ce43e7a943b8a749f1e24530711df58188eac799bc1d7&";
           menuTitle.style.position = "absolute";
           menuTitle.style.top = "-5%";
           menuTitle.style.zIndex = "7";
@@ -152,7 +152,7 @@ function isMobile() {
           logo.style.top = "5%";
           logo.style.borderRadius = "50%";
           logo.style.opacity = "70%";
-          logo.src = "https://cdn.discordapp.com/attachments/1152719368707375134/1152719456544493699/kk_kalp.jpg?ex=65169a66&is=651548e6&hm=0fb1f4ff7bb3c7e630913d027574f8bd0e4e92e9770964ced2d5243b9c3cb50e&";
+          logo.src = "https://cdn.discordapp.com/attachments/1133524593139789965/1280951058390319125/de8c5ee64b62be6c0f401ef1080e3163.jpg?ex=66d9f223&is=66d8a0a3&hm=106378ee0dd0cbbe8f7ce43e7a943b8a749f1e24530711df58188eac799bc1d7&";
           logo.style.height = "10%";
           logo.style.width = "6%";
           logo.style.border = "2px solid black";
@@ -213,7 +213,7 @@ function isMobile() {
   
   
       function setupCustomSkins(){
-          var customSkinList = ["https://cdn.discordapp.com/attachments/1152719368707375134/1152719456301219890/nike_kedi.jpg?ex=65169a66&is=651548e6&hm=d51b9f55949af0b6b31eb70b0d2db5c4b6bfbf82190e02788cd91d7a75277846&", "https://cdn.discordapp.com/attachments/1152719368707375134/1152720137284239480/nokia.jpg?ex=65169b09&is=65154989&hm=b5c1b30fc7396b97b1ef0f76e86201af97c70d5eecb98b91054a2b73c8ca0619&" ]
+          var customSkinList = ["https://i.pinimg.com/736x/21/1b/ef/211bef9bab1315434e9a21cea3f94b6f.jpg" ]
   
   
           function checkCustomSkin(customLink){
@@ -705,7 +705,7 @@ function isMobile() {
                               for (let i = 0; i<setEmojiBinds.length; i++){
                               if (emojiBindBtns) {
                                   if (setEmojiBinds[i].innerText){
-                                  var daLink = emojiLinks[setEmojiBinds[i].className.split("Bind")[1]].replace("https://www.snay.io", ".");
+                                  var daLink = emojiLinks[setEmojiBinds[i].className.split("Bind")[1]].replace("https://www.snay.io/", ".");
   
                                   if (event.key == setEmojiBinds[i].innerText){
                                       if (document.querySelector("#chat_textbox").value == ""){
